@@ -1,11 +1,11 @@
 # README
 
-# Group 5
+# Group 5 HIGH FIVE! 
 group members:
 
-Nicole Huang  XIH82@pitt.edu
+Xinyi (Nicole) Huang XIH82@pitt.edu
 
-logan groth log23@ pitt.edu
+logan groth log23@pitt.edu
 
 Alex Fleming abf41@pitt.edu
 
